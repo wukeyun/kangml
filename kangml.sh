@@ -3,7 +3,7 @@ export PATH
 #######
 Main()
 {
-Loading
+Home_page
 }
 
 Loading()
